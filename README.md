@@ -75,5 +75,10 @@ Here are some ideas to get you started:
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
+[](https://dl.kaskus.id/storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif)
 
+<p align="center"> 
+ 𝚅𝙸𝚂𝙸𝚃𝙾𝚁𝚂 𝙲𝙾𝚄𝙽𝚃
+ <img src="https://profile-counter.glitch.me/Jobiryasir/count.svg" />
+</p>
 
