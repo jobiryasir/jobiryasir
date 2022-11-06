@@ -77,7 +77,3 @@ Here are some ideas to get you started:
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
 
 
-<br><br>
-<h3>Visitors :</h3>
-<br>
-<img src="https://profile-counter.glitch.me/jobiryasir" alt="Visitors">
